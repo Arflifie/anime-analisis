@@ -235,52 +235,14 @@ Kami sangat menyambut baik kontribusi dari komunitas! Baik itu berupa perbaikan 
 
 ---
 
-### 📝 Template Pull Request
-
-Saat membuat Pull Request, harap gunakan template di bawah ini dengan mengisi detail yang relevan:
-
-```markdown
-## 📝 Deskripsi Perubahan
-
-Jelaskan secara singkat apa perubahan yang Anda lakukan dan masalah apa yang diselesaikan oleh PR ini.
-
-## 🛠️ Jenis Kontribusi
-
-- [ ] 🐛 Perbaikan Bug (Bug fix)
-- [ ] ✨ Fitur Baru (New feature)
-- [ ] 📝 Dokumentasi (Documentation update)
-- [ ] 🧪 Pengujian Tambahan / Statistik (Statistical or Test updates)
-
-## 🧪 Bagaimana Cara Mengujinya?
-
-Jelaskan langkah-langkah detail atau jalankan skrip pengujian untuk memverifikasi perubahan Anda:
-
-1. Jalankan `python analysis.py`
-2. Pastikan hasil output uji Kruskal-Wallis...
-
-## 📸 Bukti Hasil (Jika ada visualisasi baru)
-
-_Sertakan screenshot atau chart baru jika ada perubahan visual._
-
-## ✅ Checklist Sebelum Mengajukan
-
-- [ ] Kode saya telah mengikuti pedoman gaya penulisan kode proyek ini (PEP 8).
-- [ ] Saya telah melakukan pengujian mandiri terhadap kode saya.
-- [ ] Saya telah menambahkan komentar pada bagian kode yang rumit atau sulit dipahami.
-- [ ] Dokumentasi terkait telah diperbarui atau ditambahkan sesuai kebutuhan.
-```
-
----
-
 ## 👥 Kontributor & Tim Pengembang
 
 Berikut adalah templat daftar kontributor yang telah mengembangkan proyek analisis ini. Anda dapat mengedit daftar di bawah ini untuk mencerminkan anggota tim pengembang Anda:
 
-|                                      Foto                                       | Kontributor                                                  | Peran                          | Tugas & Kontribusi                                                                                                                                                                                                                                                   |
-| :-----------------------------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/github_username1.png" width="60px;" alt="Avatar"/> | **[Arflifie](https://github.com/Arflifie)**                  | **Lead Data Scientist**        | - Merancang metodologi pengujian statistik non-parametrik Kruskal-Wallis.<br>- Mengimplementasikan uji statistik akhir menggunakan pustaka `scipy.stats`.<br>- Melakukan interpretasi hasil _p-value_ dan menyimpulkan analisis.                                     |
-| <img src="https://github.com/taufiqurahman13.png" width="60px;" alt="Avatar"/>  | **[Taufiqurahman13](https://github.com/taufiqurahman13)**    | **Data Engineer**              | - Membangun pipeline preprocessing data skala besar dengan Apache Spark (PySpark).<br>- Membersihkan dataset, menyaring studio _Unknown_, dan memfilter ambang sampel anime minimum.<br>- Mengoptimalkan performa pemrosesan data dengan memori Spark terdistribusi. |
-| <img src="https://github.com/github_username3.png" width="60px;" alt="Avatar"/> | **[@github_username3](https://github.com/github_username3)** | **Data Analyst & UI Designer** | - Merancang dan mengimplementasikan visualisasi data Box Plot menggunakan Seaborn & Matplotlib.<br>- Menulis dokumentasi teknis dan panduan kontributor di dalam berkas `README.md`.<br>- Melakukan pengujian integrasi seluruh alur kode (_pipeline testing_).      |
+|                                      Foto                                      | Kontributor                                               | Peran                   | Tugas & Kontribusi                                                                                                                                                                                                                                                   |
+| :----------------------------------------------------------------------------: | :-------------------------------------------------------- | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    <img src="https://github.com/Arflifie.png" width="60px;" alt="Avatar"/>     | **[Arflifie](https://github.com/Arflifie)**               | **Lead Data Scientist** | - Merancang metodologi pengujian statistik non-parametrik Kruskal-Wallis.<br>- Mengimplementasikan uji statistik akhir menggunakan pustaka `scipy.stats`.<br>- Melakukan interpretasi hasil _p-value_ dan menyimpulkan analisis.                                     |
+| <img src="https://github.com/taufiqurahman13.png" width="60px;" alt="Avatar"/> | **[Taufiqurahman13](https://github.com/taufiqurahman13)** | **Data Engineer**       | - Membangun pipeline preprocessing data skala besar dengan Apache Spark (PySpark).<br>- Membersihkan dataset, menyaring studio _Unknown_, dan memfilter ambang sampel anime minimum.<br>- Mengoptimalkan performa pemrosesan data dengan memori Spark terdistribusi. |
 
 ---
 
