@@ -16,7 +16,8 @@ Repositori ini berisi dokumentasi dan kode implementasi untuk menganalisis **pen
 3. [Tools yang Diperlukan](#-tools-yang-diperlukan)
 4. [Langkah-langkah Melakukan Analisa](#-langkah-langkah-melakukan-analisa)
 5. [Struktur Repositori](#-struktur-repositori)
-6. [Template Kontributor GitHub](#-template-kontributor-github)
+6. [Panduan Kontribusi GitHub](#-panduan-kontribusi-github)
+7. [Kontributor & Tim Pengembang ](#-kontributor-tim-pengembang)
 
 ---
 
@@ -208,7 +209,7 @@ anime-analisis/
 
 ---
 
-## 🤝 Template Kontributor GitHub
+## 🤝 Panduan Kontribusi GitHub
 
 Kami sangat menyambut baik kontribusi dari komunitas! Baik itu berupa perbaikan bug, penambahan fitur baru, perbaikan dokumentasi, atau saran analisis statistik yang lebih mendalam.
 
