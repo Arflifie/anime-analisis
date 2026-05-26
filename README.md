@@ -246,5 +246,3 @@ Berikut adalah templat daftar kontributor yang telah mengembangkan proyek analis
 | <img src="https://github.com/taufiqurahman13.png" width="60px;" alt="Avatar"/> | **[Taufiqurahman13](https://github.com/taufiqurahman13)** | **Data Engineer**       | - Membangun pipeline preprocessing data skala besar dengan Apache Spark (PySpark).<br>- Membersihkan dataset, menyaring studio _Unknown_, dan memfilter ambang sampel anime minimum.<br>- Mengoptimalkan performa pemrosesan data dengan memori Spark terdistribusi. |
 
 ---
-
-_Dibuat dengan 💖 oleh tim analis anime komunitas._
